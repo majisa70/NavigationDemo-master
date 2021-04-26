@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_over.xml",
+        "source": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/src/main/res/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_title.xml",
+        "source": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game.xml",
+        "source": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_won.xml",
+        "source": "/Users/ndhu_csie/Downloads/NavigationDemo-master/app/src/main/res/layout/fragment_game_won.xml"
+    }
+]
